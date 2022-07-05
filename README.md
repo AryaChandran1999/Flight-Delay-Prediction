@@ -1,1 +1,2 @@
 In the current world, where a huge amount of importance is given to every minute that exists on the clock, the occurrence of a delay especially in the travel industry creates a sense of displeasure among the travelers. In this project, our objective is to predict if a certain flight would be delayed by 15 minutes or more, programmed in the R software using certain models such as Logistic Regression and Random Forest.
+Link to the dataset: https://transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGK&QO_fu146_anzr=b0-gvzr
